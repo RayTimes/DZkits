@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/RayTimes/DZkits.podspec"
   
 
-   s.license = { :type => 'MIT', :text => <<-LICENSE
+   spec.license = { :type => 'MIT', :text => <<-LICENSE
           Copyright DZ 2020-2021
            LICENSE
        }
