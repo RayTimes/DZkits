@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
                    DESC
                    
-  spec.homepage     = "http://github.com/RayTimes/DZkits.podspec"
+  spec.homepage     = "https://github.com/RayTimes/DZkits.podspec"
   
 
    s.license = { :type => 'MIT', :text => <<-LICENSE
@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "8.0"
 
 
-  spec.source       = { :git => "http://github.com/RayTimes/DZkits.podspec.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/RayTimes/DZkits.podspec.git", :tag => "#{spec.version}" }
 
 
   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
