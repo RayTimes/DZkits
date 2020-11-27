@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "DZkits"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "类别常用整理"
   spec.description  = <<-DESC
   常用category
