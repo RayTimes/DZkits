@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "8.0"
 
 
-  spec.source       = { :git => "https://github.com/RayTimes/DZkits.podspec.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/RayTimes/DZkits.git", :tag => "#{spec.version}" }
 
 
   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
