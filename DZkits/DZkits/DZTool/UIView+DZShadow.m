@@ -8,9 +8,6 @@
 
 #import "UIView+DZShadow.h"
 
-#import <AppKit/AppKit.h>
-
-
 @implementation UIView (DZShadow)
 
 @end
