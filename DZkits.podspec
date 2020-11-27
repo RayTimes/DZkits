@@ -3,9 +3,10 @@ Pod::Spec.new do |spec|
   spec.version      = "0.0.1"
   spec.summary      = "类别常用整理"
   spec.description  = <<-DESC
+  常用category
                    DESC
                    
-  spec.homepage     = "https://github.com/RayTimes/DZkits.podspec"
+  spec.homepage     = "https://github.com/RayTimes/DZkits"
   
 
    spec.license = { :type => 'MIT', :text => <<-LICENSE
