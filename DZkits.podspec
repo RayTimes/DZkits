@@ -22,9 +22,9 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/RayTimes/DZkits.git", :tag => "#{spec.version}" }
 
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
+  spec.source_files  = "DZTool", "DZtool/**/*.{h,m}"
  
-  spec.public_header_files = "DZkits/**/*.h"
+  spec.public_header_files = "DZkits/DZTool/*.h"
 
   spec.requires_arc = true
 
